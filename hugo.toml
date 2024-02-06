@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Vikramjit Sidhu'
+theme = 'ananke'
