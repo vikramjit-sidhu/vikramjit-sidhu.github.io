@@ -5,3 +5,24 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+// Your custom styles go here
+// Header styles
+// .site-header {
+//   .site-title {
+//     font-size: 26px; // Increase site title font size
+//   }
+
+//   .page-link {
+//     font-size: 18px; // Increase navigation menu font size
+//   }
+// }
+
+// Body styles
+body {
+  font-size: 18px; // Increase the base font size
+}
+
+.page-content {
+  font-size: 1.1em; // Make content slightly larger than the base font
+}
