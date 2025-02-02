@@ -2,7 +2,7 @@
 layout: post
 title: "Mandatory hello world post"
 categories: misc
-excerpt: This is a short description about the post which I am testing out
+excerpt: First post on the blog
 ---
 
 I have been thinking about writing a blog for the longest while.
